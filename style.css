@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 10;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+@media screen and (max-width: 720px) {
+  /*changes reflects on screen with a width of 720px and below*/
+}
+@media screen and (max-width: 420px) {
+  .project-container {
+    width: 17.875rem;
+  }
+}
+
+.navbar {
+  background-color: #d7ccc8;
+}
+.nav-wrapper {
+  background-color: #d7ccc8;
+}
+
+#logo {
+  width: 70px;
+  height: 70px;
+}
+.container-fluid {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  font-style: italic;
+}
+.container-wraper {
+  width: 30rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+.img {
+  height: 35rem;
+  width: 30rem;
+  border-radius: 70%;
+  justify-content: center;
+}
+.bio-text {
+  font-size: 20px;
+}
+.more {
+  background-color: #efebe9;
+}
+
+.welcome-header {
+  font-size: 80px;
+}
+.name {
+  font-size: 70px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.title {
+  font-size: 50px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.github {
+  width: 90px;
+  height: 90px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.linkin {
+  width: 90px;
+  height: 90px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.resume {
+  width: 80px;
+  height: 80px;
+  margin-top: 20px;
+}
+
+#paragraph {
+  font-size: 30px;
+}
+.aboutme {
+  text-align: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+
+.skills {
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.skill-header {
+  margin-bottom: 1rem;
+  margin-top: 20rem;
+}
+
+.skills-wrapper img {
+  padding: 1.25rem;
+}
+
+.icon {
+  width: 11.875rem;
+  height: 11.25rem;
+}
+.icon-card {
+  background-color: #efebe9;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--secondary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+.projects {
+  background-color: var(--bg-color);
+  padding: 32px 0;
+  margin-top: 15%;
+  background-color: #efebe9;
+}
+
+.project-pic {
+  width: 65%;
+  height: 60%;
+}
+
+.projects-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.projects-title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.project-container {
+  text-align: center;
+  width: 21.875rem;
+  padding: 1rem;
+}
+.project-container p {
+  padding: 0.4rem;
+}
+
+.project-title {
+  margin-bottom: var(--bottom-margin);
+}
+
+.project-details {
+  margin-bottom: var(--bottom-margin);
+  font-size: 15px;
+}
+
+.project-card {
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--primary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+.media-footer {
+  margin-bottom: 30px;
+}
+footer {
+  text-align: center;
+  margin-top: 10%;
+}
+footer p {
+  font-size: 40px;
+}
