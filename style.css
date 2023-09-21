@@ -51,38 +51,38 @@
 }
 
 .welcome-header {
-  font-size: 80px;
+  font-size: 5rem;
 }
 .name {
-  font-size: 70px;
-  margin-top: 30px;
-  margin-bottom: 10px;
+  font-size: 4.3rem;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 .title {
-  font-size: 50px;
-  margin-top: 30px;
-  margin-bottom: 20px;
+  font-size: 3.1rem;
+  margin-top: 1rem;
+  margin-bottom: 1.2rem;
 }
 .github {
-  width: 90px;
-  height: 90px;
-  margin-top: 20px;
-  margin-right: 20px;
+  width: 5.6rem;
+  height: 5.6rem;
+  margin-top: 1.2rem;
+  margin-right: 1.2rem;
 }
 .linkin {
-  width: 90px;
-  height: 90px;
-  margin-top: 20px;
-  margin-right: 20px;
+  width: 5.6rem;
+  height: 5.6rem;
+  margin-top: 1.2rem;
+  margin-right: 1.2rem;
 }
 .resume {
-  width: 80px;
-  height: 80px;
-  margin-top: 20px;
+  width: 5rem;
+  height: 5rem;
+  margin-top: 1.2rem;
 }
 
 #paragraph {
-  font-size: 30px;
+  font-size: 1.8rem;
 }
 .aboutme {
   text-align: center;
@@ -96,12 +96,11 @@
   max-width: 68.75rem;
   margin: auto;
   text-align: center;
-  margin-top: 2.5rem;
 }
 
 .skill-header {
   margin-bottom: 1rem;
-  margin-top: 20rem;
+  margin-top: 10rem;
 }
 
 .skills-wrapper img {
@@ -114,21 +113,22 @@
 }
 .icon-card {
   background-color: #efebe9;
-  border-radius: 11px;
+  border-radius: 0.9rem;
   box-shadow: 0 3px 10px var(--secondary-shadow);
-  padding: 20px;
-  margin: 10px;
+  padding: 1.2rem;
+  margin: 0.6rem;
 }
 .projects {
   background-color: var(--bg-color);
-  padding: 32px 0;
+  padding: 2rem 0;
   margin-top: 15%;
   background-color: #efebe9;
 }
 
 .project-pic {
-  width: 65%;
-  height: 60%;
+  width: 24rem;
+  height: 20rem;
+  margin: 1rem;
 }
 
 .projects-container {
@@ -143,7 +143,8 @@
 
 .project-container {
   text-align: center;
-  width: 21.875rem;
+  width: 30rem;
+  height: 37rem;
   padding: 1rem;
 }
 .project-container p {
@@ -156,23 +157,23 @@
 
 .project-details {
   margin-bottom: var(--bottom-margin);
-  font-size: 15px;
+  font-size: 1rem;
 }
 
 .project-card {
   background-color: #fff;
-  border-radius: 11px;
+  border-radius: 0.8rem;
   box-shadow: 0 3px 10px var(--primary-shadow);
-  padding: 20px;
-  margin: 10px;
+  padding: 1.2rem;
+  margin: 0.8rem;
 }
 .media-footer {
-  margin-bottom: 30px;
+  margin-bottom: 2rem;
 }
 footer {
   text-align: center;
   margin-top: 10%;
 }
 footer p {
-  font-size: 40px;
+  font-size: 2.5rem;
 }
