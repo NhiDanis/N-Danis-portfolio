@@ -1,8 +1,8 @@
 # N-Danis-portfolio
 
-Name: Nhi Danis
-CWID: 885122218
-Email: Ndanis@csu.fullerton.edu
+- Name: Nhi Danis
+- CWID: 885122218
+- Email: Ndanis@csu.fullerton.edu
 
 ## Description:
 
